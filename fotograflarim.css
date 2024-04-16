@@ -1,0 +1,158 @@
+#baslik
+{
+    background-color: gold;
+    padding: 5px;
+    border-style: groove;
+    border-width: 5px;
+    border-color: orange;
+}
+#baslik2{
+    font-size: 40px;
+    position: relative;
+    bottom: 45px;
+    font-weight: bold;
+    color:white;
+}
+
+#baslik3
+{
+    position: relative;
+    left:150px;
+    bottom:30px;
+    text-decoration: none;
+    font-size: large;
+
+}
+
+#baslik ul{
+    list-style-type: none;
+}
+
+#baslik ul li{
+    float: left;
+    margin:40px;
+   
+}
+
+#baslik ul li a {
+    text-decoration: none;
+    color:white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+#baslik ul li a:hover{
+    text-decoration: underline;
+}
+
+#sosyalmedya
+{
+    width: 40px;
+    height: 40px;
+    position: relative;
+    left:280px;
+    bottom:3px;
+    margin: 5px;
+}
+
+body{
+    background-color: rgb(246, 217, 198);
+}
+
+.baslik
+{
+    text-align: center;
+    position: relative;
+    top: 40px;
+    right: 450px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size:40px ;
+}
+
+#foto1
+{
+    float: left;
+    position: relative;
+    left: 200px;
+    border-radius: 20px;
+}
+
+#foto2
+{
+    float: right;
+    position: relative;
+    right: 200px;
+    border-radius: 20px;
+    
+}
+
+#foto3
+{
+    float: left;
+    position: relative;
+    border-radius: 20px;
+    top:600px;
+    right: 200px;
+}
+
+#foto4
+{
+    float: right;
+    position: relative;
+    right: 200px;
+    border-radius: 20px;
+    top:100px;
+}
+
+#foto5
+{
+    float: left;
+    position: relative;
+    border-radius: 20px;
+    top:350px;
+    left:100px;
+    
+}
+
+#foto6
+{
+    float: right;
+    position: relative;
+    left: 200px;
+    border-radius: 20px;
+    top:700px;
+}
+#foto7
+{
+    float: left;
+    position: relative;
+    border-radius: 20px;
+    top:800px;
+    left:200px;
+    
+}
+#foto8
+{
+    float: right;
+    position: relative;
+    right: 200px;
+    border-radius: 20px;
+    top:800px;
+}
+
+#foto9
+{
+    float: left;
+    position: relative;
+    border-radius: 20px;
+    top:1400px;
+    right: 200px;
+}
+
+#foto10
+{
+    float: right;
+    position: relative;
+    border-radius: 20px;
+    top:900px;
+    right: 200px;
+}

@@ -1,0 +1,193 @@
+#baslik
+{
+    background-color: gold;
+    padding: 5px;
+    border-style: groove;
+    border-width: 5px;
+    border-color: orange;
+}
+#baslik2{
+    font-size: 40px;
+    position: relative;
+    bottom: 45px;
+    font-weight: bold;
+    color:white;
+}
+
+#baslik3
+{
+    position: relative;
+    left:150px;
+    bottom:30px;
+    text-decoration: none;
+    font-size: large;
+
+}
+
+#baslik ul{
+    list-style-type: none;
+}
+
+#baslik ul li{
+    float: left;
+    margin:40px;
+   
+}
+
+#baslik ul li a {
+    text-decoration: none;
+    color:white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+#baslik ul li a:hover{
+    text-decoration: underline;
+}
+
+#sosyalmedya
+{
+    width: 40px;
+    height: 40px;
+    position: relative;
+    left:280px;
+    bottom:3px;
+    margin: 5px;
+}
+
+body{
+    background-color: rgb(246, 217, 198);
+}
+
+.baslik
+{
+    text-align: center;
+    position: relative;
+    top: 40px;
+    right: 450px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size:40px ;
+}
+
+#film1
+{
+    background-color: rgb(166, 252, 223);
+    width: 800px;
+    height: 300px;
+    border-radius: 20px;
+    position: relative;
+    float:left;
+    margin: 40px;
+    left: 100px;
+    border-style: dashed;
+    border-width: 3px;
+    border-color: rgb(2, 207, 139) ;
+
+}   
+
+#film2
+{
+    background-color: hotpink;
+    width: 800px;
+    height: 300px;
+    border-radius: 20px;
+    border-style: dashed;
+    border-color: rgb(255, 178, 191);
+    border-width: 3px;
+    float: right;
+    position: relative;
+    right: 150px;
+
+}
+
+#film3
+{
+    background-color: rgb(161, 161, 161);
+    width: 800px;
+    height: 300px;
+    border-radius: 20px;
+    border-style: dashed;
+    border-width: 3px;
+    border-color: rgb(92, 92, 92);
+    position: relative;
+    float: left;
+    position: relative;
+    left: 100px;
+    margin:40px;
+}
+
+#film4
+{
+    background-color: rgb(247, 224, 94);
+    width: 800px;
+    height: 300px;
+    border-radius: 20px;
+    border-style: dashed;
+    border-color: rgb(202, 172, 0);
+    border-width: 3px;
+    float: right;
+    position: relative;
+    right: 150px;
+}
+
+#film5
+{
+    background-color: rgb(215, 161, 161);
+    width: 800px;
+    height: 300px;
+    border-radius: 20px;
+    border-style: dashed;
+    border-width: 3px;
+    border-color: rgb(252, 107, 107);
+    position: relative;
+    float: left;
+    position: relative;
+    left: 100px;
+    margin:40px;
+}
+
+.aciklama{
+    position:relative;
+    left: 30px;
+    font-size: 17px;
+}
+
+#joker
+{
+    border-radius: 5px;
+    position: relative;
+    left:20px;
+    top:20px;
+    float:left;
+}
+#misafir
+{
+    border-radius: 5px;
+    position: relative;
+    left:20px;
+    top:20px;
+    float:left;
+}
+#fractured
+{
+    border-radius: 5px;
+    position: relative;
+    left:20px;
+    top:20px;
+    float:left;
+}
+#it
+{
+    border-radius: 5px;
+    position: relative;
+    left:20px;
+    top:20px;
+    float:left;
+}
+#ada
+{
+    border-radius: 5px;
+    position: relative;
+    left:20px;
+    top:20px;
+    float:left;
+}

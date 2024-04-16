@@ -1,0 +1,154 @@
+#baslik
+{
+    background-color: gold;
+    padding: 5px;
+    border-style: groove;
+    border-width: 5px;
+    border-color: orange;
+}
+#baslik2{
+    font-size: 40px;
+    position: relative;
+    bottom: 45px;
+    font-weight: bold;
+    color:white;
+}
+
+#baslik3
+{
+    position: relative;
+    left:150px;
+    bottom:30px;
+    text-decoration: none;
+    font-size: large;
+
+}
+
+#baslik ul{
+    list-style-type: none;
+}
+
+#baslik ul li{
+    float: left;
+    margin:40px;
+   
+}
+
+#baslik ul li a {
+    text-decoration: none;
+    color:white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+#baslik ul li a:hover{
+    text-decoration: underline;
+}
+
+#sosyalmedya
+{
+    width: 40px;
+    height: 40px;
+    position: relative;
+    left:280px;
+    bottom:3px;
+    margin: 5px;
+}
+
+body{
+    background-color: rgb(246, 217, 198);
+}
+
+.baslik
+{
+    text-align: center;
+    position: relative;
+    top: 40px;
+    right: 450px;
+}
+
+#dram
+{
+    width: 500px;
+    height: 80px;
+    background-color: rgb(181, 173, 231);
+    border-radius: 50px;
+    position: relative;
+    left: 480px;
+    font-weight: bolder;
+}
+
+#dram a{
+    text-decoration: none;
+}
+
+#dram a p{
+    font-size: 30px;
+    position: relative;
+    top:25px;
+}
+
+
+#gerilim
+{
+    width: 500px;
+    height: 80px;
+    background-color:rgb(145, 226, 253);
+    border-radius: 50px;
+    position: relative;
+    left: 480px;
+    font-weight: bolder;
+}
+
+#gerilim a{
+    text-decoration: none;
+}
+
+#gerilim a p{
+    font-size: 30px;
+    position: relative;
+    top:25px;
+    color: rgb(70, 49, 255);
+}
+
+#korku
+{
+    width: 500px;
+    height: 80px;
+    background-color:lightgreen;
+    border-radius: 50px;
+    position: relative;
+    left: 480px;
+    font-weight: bolder;
+}
+#korku a{
+    text-decoration: none;
+}
+
+#korku a p{
+    font-size: 30px;
+    position: relative;
+    top:25px;
+    color:rgb(0, 129, 0);
+}
+
+#komedi
+{
+    width: 500px;
+    height: 80px;
+    background-color:rgb(251, 175, 145);
+    border-radius: 50px;
+    position: relative;
+    left: 480px;
+    font-weight: bolder;
+}
+
+#komedi a{
+    text-decoration: none;
+}
+
+#komedi a p{
+    font-size: 30px;
+    position: relative;
+    top:25px;
+    color: rgb(248, 68, 48);
+}
